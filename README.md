@@ -5,8 +5,10 @@
 
 1. Who is this app for?
 1. What does it do, how does it work
-1. Add screenshots of the design view or actual app
-1. Blocks that you showcase your individual skill
+1. Add screenshots of the design view or actual app![image](https://github.com/user-attachments/assets/5f08e870-cc88-40ce-a99c-cf0e13ee6d9d)
+**
+1. Blocks that you showcase your individual skill![image](https://github.com/user-attachments/assets/1fa40324-9e66-4ef2-b29e-e0fa02c38224)
+
 1. The images you created
 
    Add the MIT App Inventor File to the Repository
