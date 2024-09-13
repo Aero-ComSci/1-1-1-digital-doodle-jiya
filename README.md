@@ -14,8 +14,11 @@
 1. The images you created
 
    Add the MIT App Inventor File to the Repository
+
 https://github.com/Aero-ComSci/1-1-1-digital-doodle-jiya/blob/main/Digitaldoodle.apk
 
     Add the MIT Build File to the repository
+
+https://github.com/Aero-ComSci/1-1-1-digital-doodle-jiya/blob/main/Digitaldoodle.aia
 
   
